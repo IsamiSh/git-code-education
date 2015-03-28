@@ -2,6 +2,7 @@ ola mundo !!
 wow !
 Kantai !!!
 Kongou desu
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,6 @@ Kongou desu
 
 teste
 
+=======
+melhor navio
+>>>>>>> master
