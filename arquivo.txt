@@ -1,15 +1,8 @@
 ola mundo !!
 wow !
-Kantai !!!
-Kongou desu
-<<<<<<< HEAD
+testando git
 
 
 
 
 
-teste
-
-=======
-melhor navio
->>>>>>> master
